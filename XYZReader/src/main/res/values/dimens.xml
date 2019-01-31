@@ -10,4 +10,5 @@
     <dimen name="appBar_elevation">4dp</dimen>
     <dimen name="fab_size">56dp</dimen>
 
+    <dimen name="frg_detail_margin">8dp</dimen>
 </resources>

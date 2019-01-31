@@ -54,7 +54,9 @@
             android:id="@+id/cardView_article"
             style="@style/ArticleDetailCardViewTheme"
             android:layout_gravity="center_horizontal"
-            app:cardElevation="4dp">
+            app:cardElevation="4dp"
+            android:layout_marginStart="@dimen/frg_detail_margin"
+            android:layout_marginEnd="@dimen/frg_detail_margin">
 
             <TextView
                 android:id="@+id/article_body"
