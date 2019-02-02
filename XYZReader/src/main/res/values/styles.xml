@@ -26,8 +26,8 @@
     </style>
 
     <style name="AppTheme.Detail">
-        <item name="android:statusBarColor">@android:color/transparent</item>
     </style>
+        <!--<item name="android:statusBarColor">@android:color/transparent</item>-->
 
     <style name="CollapsingToolbarTheme" parent="Widget.Design.CollapsingToolbar.Subtitle">
         <item name="contentScrim">@color/photo_placeholder</item>
